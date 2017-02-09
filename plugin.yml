@@ -1,0 +1,8 @@
+main: to.epac.factorycraft.SignEdit.Main
+version: 1.1.0
+name: SignEdit
+
+commands:
+  sign:
+    aliases: [se, signedit, edit]
+    description: Main command
